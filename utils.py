@@ -43,7 +43,7 @@ def init_params(net):
 
 
 #_, term_width = os.popen('stty size', 'r').read().split()
-term_width = 20；
+term_width = 20
 term_width = int(term_width)
 
 TOTAL_BAR_LENGTH = 65.
